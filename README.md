@@ -168,7 +168,7 @@ python train.py
 
 **Sirine**
 
-Engineering Student
+Infotronic Engineering 
 
 Artificial Intelligence • Deep Learning • Machine Learning
 
