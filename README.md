@@ -1,4 +1,10 @@
 # 🎙️ Speech Emotion Recognition using Deep Learning
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
+![Librosa](https://img.shields.io/badge/Librosa-Audio-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ## 📌 Overview
 
